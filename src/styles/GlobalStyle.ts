@@ -19,6 +19,9 @@ const GlobalStyle = createGlobalStyle`
     border: none;
     outline: none;
   }
+  button {
+    cursor: pointer;
+  }
   ol, ul, li {
     list-style: none;
   }
